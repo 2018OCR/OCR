@@ -23,7 +23,7 @@
 >size:       缩放后的尺寸
 
 ### EnlargeCanvas(src, size, fit)
-扩大画布尺寸
+扩大画布尺寸(这个好像用处不大，主要为了旋转以后保持图片的完整性)
 >src:        图片源文件  
 >size:       扩大后的画布尺寸  
 >fit:        是否将图片移动到化部中央(True/False),缺省为False  
